@@ -35,7 +35,7 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 **Quinto Semestre**
 - Introducción a la Física Cuántica [[Notas](/Introducci%C3%B3n%20a%20la%20F%C3%ADsica%20Cu%C3%A1ntica/) 📝]
 - Laboratorio de Óptica
-- Óptica
+- Óptica [[Notas](/%C3%93ptica/) 📝]
 - Variable Compleja
 
 **Sexto Semestre**
