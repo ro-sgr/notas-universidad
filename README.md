@@ -39,10 +39,10 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 - Variable Compleja
 
 **Sexto Semestre**
-- Matemáticas Avanzadas de la Física
-- Mecánica Analítica
-- Relatividad
-- Termodinámica
+- Matemáticas Avanzadas de la Física [[Notas](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/) 📝]
+- Mecánica Analítica [[Notas](/Mec%C3%A1nica%20Anal%C3%ADtica/) 📝]
+- Relatividad [[Notas](/Relatividad/) 📝]
+- Termodinámica [[Notas](/Termodin%C3%A1mica/) 📝]
 
 **Séptimo Semestre**
 - Electromagnetismo II
