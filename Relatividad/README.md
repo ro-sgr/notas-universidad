@@ -16,6 +16,7 @@
 - [[Sesión 4](/Relatividad/Sesi%C3%B3n%2004.pdf)] Dilatación Temporal ⌛
 - [[Sesión 5](/Relatividad/Sesi%C3%B3n%2005.pdf)] Las Transformaciones de Lorentz
 - [[Sesión 6](/Relatividad/Sesi%C3%B3n%2006.pdf)] Gravedad y curvatura
+- [[Sesión 7](/Relatividad/Sesi%C3%B3n%2007.pdf)] Variedades diferenciales / Conv. suma de Einstein
 
 **Clase extra**
 
