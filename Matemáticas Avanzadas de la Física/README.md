@@ -17,3 +17,5 @@
 - [[Sesión 7 - 8](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2007%20-%2008.pdf)] Series de Fourier • Fórmula de Parseval • Ecuación del calor
 - [[Sesión 9](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2009.pdf)] Funciones Especiales (Función Gamma, Digamma y Poligamma)
 - [[Sesión 10](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2010.pdf)] El problema de Sturm-Liouville: Funciones especiales • Método de ortogonalización de Gram-Schmit
+- [[Sesión 11](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2011.pdf)] Problema de Sturm-Liouville
+- [[Sesión 12](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2012.pdf)] Polinomios de Legendre: Función generadora
