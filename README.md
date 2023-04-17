@@ -33,16 +33,16 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 - Laboratorio de Electromagnetismo
 
 **Quinto Semestre**
-- Introducción a la Física Cuántica [[Notas](/Introducci%C3%B3n%20a%20la%20F%C3%ADsica%20Cu%C3%A1ntica/) 📝]
+- [[Notas](/Introducci%C3%B3n%20a%20la%20F%C3%ADsica%20Cu%C3%A1ntica/) 📝] Introducción a la Física Cuántica
 - Laboratorio de Óptica
-- Óptica [[Notas](/%C3%93ptica/) 📝]
+- [[Notas](/%C3%93ptica/) 📝] Óptica
 - Variable Compleja
 
 **Sexto Semestre**
-- Matemáticas Avanzadas de la Física [[Notas](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/) 📝]
-- Mecánica Analítica [[Notas](/Mec%C3%A1nica%20Anal%C3%ADtica/) 📝]
-- Relatividad [[Notas](/Relatividad/) 📝]
-- Termodinámica [[Notas](/Termodin%C3%A1mica/) 📝]
+- [[Notas](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/) 📝] Matemáticas Avanzadas de la Física
+- [[Notas](/Mec%C3%A1nica%20Anal%C3%ADtica/) 📝] Mecánica Analítica
+- [[Notas](/Relatividad/) 📝] Relatividad
+- [[Notas](/Termodin%C3%A1mica/) 📝] Termodinámica
 
 **Séptimo Semestre**
 - Electromagnetismo II
