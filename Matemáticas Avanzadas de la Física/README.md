@@ -20,4 +20,5 @@
 - [Sesión 11](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2011.pdf). Problema de Sturm-Liouville
 - [Sesión 12](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2012.pdf). Polinomios de Legendre: Función generadora
 - Sesión 13. *Pendiente*
-- [Sesión 14](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2012.pdf). Aplicaciones de Polinomios de Legendre
+- [Sesión 14](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2014.pdf). Aplicaciones de Polinomios de Legendre
+- [Sesión 15](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2015.pdf). Polinomios de Legendre (pt. 420)
