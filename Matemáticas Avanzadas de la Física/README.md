@@ -23,6 +23,6 @@
 - [Sesión 14](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2014.pdf). Aplicaciones de Polinomios de Legendre
 - [Sesión 15](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2015.pdf). Polinomios de Legendre (pt. 420)
 - [Sesión 16](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2016.pdf). Polinomios de Hermite
-- [Sesión 17 - 18](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2017%20-%2018.pdf) Polinomios de Hermite & oscilador armónico cuántico
-- [Sesión 19](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2019.pdf) Átomo de Hidrógeno
-- [Sesión 20](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2020.pdf) Polinomios de Laguerre y sus asociados
+- [Sesión 17 - 18](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2017%20-%2018.pdf). Polinomios de Hermite & oscilador armónico cuántico
+- [Sesión 19](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2019.pdf). Átomo de Hidrógeno
+- [Sesión 20](/Matem%C3%A1ticas%20Avanzadas%20de%20la%20F%C3%ADsica/Sesi%C3%B3n%2020.pdf). Polinomios de Laguerre y sus asociados
