@@ -30,6 +30,10 @@
 - Sesión 19. Sistemas no lineales
 - [Sesión 20](/Mec%C3%A1nica%20Anal%C3%ADtica/Sesi%C3%B3n%2020.pdf). Ayudantía
 - [Sesión 21](/Mec%C3%A1nica%20Anal%C3%ADtica/Sesi%C3%B3n%2021.pdf). Ayudantía
-- Sesión 22. Osciladores lineales
+- Sesión 22 - 23. Osciladores lineales
+- [Sesión 24 - 25](/Mec%C3%A1nica%20Anal%C3%ADtica/Sesi%C3%B3n%2024%20-%2025.pdf). Molécula de agua 1D • Cadena de osciladores armónicos • Oscilador forzado • Oscilador amortiguado y forzado
+- [Sesión 26](/Mec%C3%A1nica%20Anal%C3%ADtica/Sesi%C3%B3n%2026.pdf). Ejemplos
+- Sesión 27. Hamilton-Jacobi
+- Sesión 28-29. Halinton-Jacobi (pt. 2)
 
 *Temas de índole sofista fueron tratados en esta sesión, motivo por el cual me reservo en hacer públicas estas notas.
