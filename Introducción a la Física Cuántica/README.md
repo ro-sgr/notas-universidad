@@ -6,6 +6,6 @@
 
 **Ayudante**: Eduardo Calep Velázquez López
 
-**Ayudante**:  Mauricio Leonardo Rosas Gómez
+**Ayudante**: Mauricio Leonardo Rosas Gómez
 
 → Presentación del curso [[Link](https://www.fciencias.unam.mx/docencia/horarios/presentacion/336947)]
