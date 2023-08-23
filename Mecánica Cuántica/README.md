@@ -11,4 +11,5 @@
 → Presentación del curso [[Link](https://www.fciencias.unam.mx/docencia/horarios/presentacion/347050)]
 
 ## Temario
-- [Sesión 1 - 2](/Mec%C3%A1nica%20Cu%C3%A1ntica/Sesi%C3%B3n%201%20-%202.pdf). Motivación histórica, cuerpo negro y catástrofe UV.
+- [Sesión 1 - 2](/Mec%C3%A1nica%20Cu%C3%A1ntica/Sesi%C3%B3n%201%20-%202.pdf). Motivación histórica, cuerpo negro y catástrofe UV
+- [Sesión 3 - 4](/Mec%C3%A1nica%20Cu%C3%A1ntica/Sesi%C3%B3n%203%20-%204.pdf). Ecuación de Schrӧdinger (independiente del tiempo)

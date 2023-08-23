@@ -45,10 +45,10 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 - [Termodinámica](/Termodin%C3%A1mica/)
 
 **Séptimo Semestre**
-- Electromagnetismo II
+- [Electromagnetismo II](/Electromagnetismo%20II/)
 - Física Computacional
 - Laboratorio de Electrónica
-- Mecánica Cuántica
+- [Mecánica Cuántica](/Mec%C3%A1nica%20Cu%C3%A1ntica/)
 
 **Octavo Semestre**
 - Dinámica de Medios Deformables
@@ -67,6 +67,7 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 - Geometría Diferencial I
 - Geometría Moderna I
 - Probabilidad I
+- Temas Selectos de Física Computacional II. *Métodos numéricos aplicados a flujo y campos ondulatorios*
 
 
 ## Créditos ##
