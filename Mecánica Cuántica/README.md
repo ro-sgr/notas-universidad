@@ -1,4 +1,4 @@
-# Introducción a la Física Cuántica
+# Mecánica Cuántica
 
 **Grupo 8274**
 
