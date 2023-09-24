@@ -15,7 +15,7 @@
 - [Sesión 3 - 4](/Mecánica%20Cuántica/Sesión%203%20-%204.pdf). Ecuación de Schrӧdinger (independiente del tiempo) • probabilidad de encontrar a una partícula
 - [Sesión 5 - 8](/Mecánica%20Cuántica/Sesión%205%20-%208.pdf). Valor esperado • Pozo infinito de potencial • La partícula libre
 - [Sesión 9](/Mecánica%20Cuántica/Sesión%209.pdf). Pozo de potencial finito
-- [Sesión 10 - 11](). Estados dispersivos y matriz S
+- Sesión 10 - 11. Estados dispersivos y matriz S
 - [Sesión 12 - 13](/Mecánica%20Cuántica/Sesión%2012%20-%2013.pdf). El oscilador armónico, método diferencial
-- [Sesión 14 - 15](/Mecánica%20Cuántica/Sesión%2012%20-%2013.pdf). El oscilador armónico, método algebraico
-- [Sesión 16](). Interpretación generalizada de la Mécanica Cuántica
+- [Sesión 14 - 15](/Mecánica%20Cuántica/Sesión%2014%20-%2015.pdf). El oscilador armónico, método algebraico
+- Sesión 16. Interpretación generalizada de la Mécanica Cuántica
