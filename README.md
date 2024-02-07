@@ -53,7 +53,7 @@ A pesar de la falta de notas de algunas materias enlistaré el plan de estudios 
 **Octavo Semestre**
 - Dinámica de Medios Deformables
 - Física Atómica y Materia Condensada
-- Física Estadística
+- [Física Estadística](/Física%20Estadística/)
 - Laboratorio de Física Contemporánea
 
 **Noveno Semestre**
